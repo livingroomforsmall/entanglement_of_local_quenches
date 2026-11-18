@@ -1,7 +1,7 @@
 # entanglement_of_local_quenches
 
 ## Overview
-This numerical project uses tensor-network methods to study the real-time dynamics of a locally perturbed thermal quantum spin chain and to compare two numerical approaches: direct evolution and linear-response theory. It was developed as part of my bachelor thesis in theoretical condensed matter physics at the Technical University of Munich.
+This numerical project uses tensor-network methods (MPS, TEBD, vectorization, purification) to study the real-time dynamics of a locally perturbed thermal quantum spin chain and to compare two numerical approaches: direct evolution and linear-response theory. It was developed as part of my bachelor thesis in theoretical condensed matter physics at the Technical University of Munich.
 
 ## Project Structure
 - `Entanglement_of_Local_Quenches.pdf` - PDF of the submitted thesis. Here, you see the motivation from condensed-matter physics field and the theoretical explanations for the research question.
